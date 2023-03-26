@@ -1,0 +1,2 @@
+apache-airflow[amazon,celery,postgres,redis,sqlite,ftp,http,imap,mysql,ssh]
+airflow-provider-great-expectations-0.1.1
